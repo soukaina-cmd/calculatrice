@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#sp{
+    height: 120px;
+    width: 400px;
+    background-color:rgba(128, 128, 128, 0.856);
+    padding-top: 50px;
+    border: 3px solid black;
+}
+#cal{
+    font-size: 20px;
+    color: white;
+}
+td{
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    cursor: pointer;
+    background-color:grey;
+    color: white;
+    
+    
+}
+#ca{
+    border-radius: 20px;
+    
+    
+}
